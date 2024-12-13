@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“main.cpp”)
+      C:\Users\Dell\Desktop\GraphicsFinalProject\Libraries\Include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\texture.h(307,20): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\texture.h(348,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\texture.h(372,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\texture.h(374,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\texture.h(376,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(35,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(100,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(101,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(105,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(106,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(108,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(109,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(118,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(345,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(370,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(373,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(376,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(379,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(389,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(392,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(395,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(398,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(401,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(433,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(540,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(540,33): warning C4244:         with
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(540,33): warning C4244:         [
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(540,33): warning C4244:             _Ty=float
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(540,33): warning C4244:         ]
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(544,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(544,33): warning C4244:         with
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(544,33): warning C4244:         [
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(544,33): warning C4244:             _Ty=float
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(544,33): warning C4244:         ]
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(563,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(588,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(609,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(610,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(611,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(612,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(729,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(760,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(767,8): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(770,9): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(774,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(776,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(793,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\GraphicsFinalProject\main.cpp(868,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Dell\Desktop\GraphicsFinalProject\Debug\Project1.exe

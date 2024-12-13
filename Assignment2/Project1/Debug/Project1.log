@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“main.cpp”)
+      C:\Users\Dell\Desktop\大三上\FinalProject\Libraries\Include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\texture.h(307,20): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\texture.h(348,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\texture.h(372,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\texture.h(374,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\texture.h(376,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(36,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(40,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(101,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(102,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(106,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(107,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(109,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(110,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(119,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(346,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(371,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(374,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(377,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(380,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(390,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(393,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(396,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(399,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(402,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(434,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(541,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(541,33): warning C4244:         with
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(541,33): warning C4244:         [
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(541,33): warning C4244:             _Ty=float
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(541,33): warning C4244:         ]
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(545,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(545,33): warning C4244:         with
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(545,33): warning C4244:         [
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(545,33): warning C4244:             _Ty=float
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(545,33): warning C4244:         ]
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(564,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(589,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(610,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(611,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(612,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(613,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(730,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(761,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(768,8): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(771,9): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(775,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(777,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Dell\Desktop\大三上\FinalProject\main.cpp(794,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Dell\Desktop\大三上\FinalProject\Debug\Project1.exe
