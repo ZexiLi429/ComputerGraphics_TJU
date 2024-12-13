@@ -25,12 +25,12 @@
    - Phong光照模型。
    - 纹理贴图。
    - Bezier曲线运动路径。
-   - 高级纹理技术。
+   - 高级纹理技术cube/bump mapping
 
 ## 使用方法
 1. 克隆仓库：
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/ZexiLi429/ComputerGraphics_TJU.git)
    ```
 2. 编译项目：
    使用支持OpenGL的编译环境，配置必要的依赖（例如GLFW、GLAD）。
